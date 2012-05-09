@@ -1,6 +1,6 @@
 {
     "name": "sourcemint-pm-git",
-    "version": "0.1.19",
+    "version": "0.1.20",
     "pm": "npm",
     "dependencies": {
         "sourcemint-util-js": "0.1.x",
