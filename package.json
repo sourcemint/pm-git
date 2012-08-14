@@ -4,6 +4,7 @@
     "pm": "npm",
     "dependencies": {
         "sourcemint-util-js": "0.1.x",
-        "sourcemint-pm-sm": "0.1.x"
+        "sourcemint-pm-sm": "0.1.x",
+        "sourcemint-pinf-js": "0.1.x"
     }
 }
